@@ -3,4 +3,4 @@ Documentacion de practicas finales
 
 ## Horas Trabajadas
 
-**Horas:** 19:45
+**Horas:** 39:13
