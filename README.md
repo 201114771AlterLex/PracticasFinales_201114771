@@ -3,4 +3,5 @@ Documentacion de practicas finales
 
 ## Horas Trabajadas
 
-**Horas:** 39:13
+26 de agosto de 2025
+**Horas:** 166:49
